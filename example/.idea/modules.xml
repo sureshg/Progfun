@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/progfun-example.iml" filepath="$PROJECT_DIR$/progfun-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/project/progfun-example-build.iml" filepath="$PROJECT_DIR$/project/progfun-example-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../recfun/progfun-recfun.iml" filepath="$PROJECT_DIR$/../recfun/progfun-recfun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../recfun/project/progfun-recfun-build.iml" filepath="$PROJECT_DIR$/../recfun/project/progfun-recfun-build.iml" />
     </modules>
   </component>
 </project>

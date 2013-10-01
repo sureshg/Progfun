@@ -1,4 +1,4 @@
-package example
+package week1
 
 /**
  * Find the Square root of a number using Newton's method
